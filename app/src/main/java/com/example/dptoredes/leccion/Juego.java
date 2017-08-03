@@ -44,6 +44,11 @@ public class Juego extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
                 // TODO Auto-generated method stub
+                Toast toast1 =
+                        Toast.makeText(getApplicationContext(),
+                                "Error", Toast.LENGTH_SHORT);
+
+                toast1.show();
 
             }
         }
@@ -54,6 +59,11 @@ public class Juego extends AppCompatActivity {
                                     @Override
                                     public void onClick(View arg0) {
                                         // TODO Auto-generated method stub
+                                        Toast toast2 =
+                                                Toast.makeText(getApplicationContext(),
+                                                        "Acertó", Toast.LENGTH_SHORT);
+
+                                        toast2.show();
 
                                     }
                                 }
@@ -64,6 +74,11 @@ public class Juego extends AppCompatActivity {
                                     @Override
                                     public void onClick(View arg0) {
                                         // TODO Auto-generated method stub
+                                        Toast toast3 =
+                                                Toast.makeText(getApplicationContext(),
+                                                        "Error", Toast.LENGTH_SHORT);
+
+                                        toast3.show();
 
                                     }
                                 }
@@ -74,6 +89,11 @@ public class Juego extends AppCompatActivity {
                                     @Override
                                     public void onClick(View arg0) {
                                         // TODO Auto-generated method stub
+                                        Toast toast4 =
+                                                Toast.makeText(getApplicationContext(),
+                                                        "Error", Toast.LENGTH_SHORT);
+
+                                        toast4.show();
 
                                     }
                                 }
@@ -84,6 +104,11 @@ public class Juego extends AppCompatActivity {
                                     @Override
                                     public void onClick(View arg0) {
                                         // TODO Auto-generated method stub
+                                        Toast toast5 =
+                                                Toast.makeText(getApplicationContext(),
+                                                        "Error", Toast.LENGTH_SHORT);
+
+                                        toast5.show();
 
                                     }
                                 }
